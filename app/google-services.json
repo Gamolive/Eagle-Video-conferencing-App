@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975232245604",
+    "project_id": "eagle-153ee",
+    "storage_bucket": "eagle-153ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975232245604:android:0523d05db726fe2615e471",
+        "android_client_info": {
+          "package_name": "com.example.eagle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975232245604-u4kej4jb3jkp9isbsmcoudd64487datc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsXOIbtbFPDFQK6BT3Tr5nyGbw9sABJqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975232245604-u4kej4jb3jkp9isbsmcoudd64487datc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5302461016846819~6922927301"
+    }
+  ],
+  "configuration_version": "1"
+}
